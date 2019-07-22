@@ -1,5 +1,7 @@
 const fs = require('fs');
 
 class Homepage {
-  constructor() {}
+  constructor() {
+    let someProperty = 5;
+  }
 }
